@@ -1,2 +1,2 @@
 # bb-fnf-mods
-all my mods' FLAs and source codes and stuff
+all bbpanzu's mods' FLAs and source codes and stuff
